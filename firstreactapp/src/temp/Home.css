@@ -1,0 +1,134 @@
+/*.bg-img {
+    background-image:linear-gradient(to bottom, rgba(54, 190, 126, 0.226), rgb(11, 1, 31)),
+     url("bg_image_1.jpg");
+  width: 100%;
+    min-height: 650px;
+    
+  }
+.login_bg{
+  background-image:linear-gradient(to bottom, rgba(103, 253, 193, 0.253), rgb(10, 1, 31)), url("bg.jpg");
+ background-repeat: no-repeat;
+width: 100%;
+  min-height: 577px;
+}
+.register_bg{
+  background-image:linear-gradient(to bottom, rgba(103, 253, 193, 0.253), rgb(10, 1, 31)), url("bg.jpg");
+  background-repeat: no-repeat;
+ width: 100%;
+   min-height: 577px;
+ 
+}
+.h1{
+  background: linear-gradient(
+    to right, 
+    rgb(142, 252, 78), 
+    hsl(204 100% 59%)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  margin-top: 10%;
+  position: fixed;
+  margin-left: 40px;
+
+}
+.h1:hover{
+  background: linear-gradient(
+    to right, 
+    rgb(217, 255, 0), 
+    rgb(252, 0, 0)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  margin-top: 10%;
+  position: fixed;
+  margin-left: 40px;
+
+}
+.bar:hover{
+  background: linear-gradient(
+    to right, 
+    rgb(133, 190, 0), 
+    rgb(0, 204, 255)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+
+}
+.H:hover{
+  background: linear-gradient(
+    to right, 
+    rgb(255, 0, 0), 
+    rgb(43, 1, 1)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+
+}
+.b{
+  background: linear-gradient(
+    to right, 
+    hsl(98 100% 62%), 
+    hsl(204 100% 59%)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+font-size: 40px;
+
+}
+.questions{
+
+  background: #134E5E;  
+background: -webkit-linear-gradient(to right, #71B280, #134E5E);  
+background: linear-gradient(to right, #71B280, #134E5E); 
+
+}/*
+.dashboard{
+  background: linear-gradient(
+    to right, 
+    hsl(98 100% 62%), 
+    hsl(204 100% 59%)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+ 
+  margin-bottom: 20px;
+}
+.dash{
+  background: #360033;  
+  background: -webkit-linear-gradient(to right, #0b8793, #170133);  
+  background: linear-gradient(to right, #0b8793, #150031); 
+  
+min-height: 577px;
+margin-top: 0%;
+}
+.legend{
+  background: linear-gradient(
+    to right, 
+    rgb(15, 158, 168), 
+    rgb(0, 152, 253)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.op1:hover{
+
+  background: linear-gradient(
+    to right, 
+    rgb(7, 126, 134), 
+    rgb(0, 255, 55)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+
+}
+.homeimg{
+  background-image: url("working-girl.png");
+}*/
